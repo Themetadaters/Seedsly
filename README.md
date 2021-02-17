@@ -6,15 +6,25 @@ Seedsly also provide a soil detection hardware system where we can see the exact
 # Instructions
 
 The instructions to work with our E-commerce website, “Seedsly” are-
+
 •	We must install Text Editor.
+
 •	We must install XANPP Server.
+
 •	Put all the files into the XANPP Server (C-Drive/XANPP/htdocs/Your file name).
+
 •	Open your XANPP control panel and start Apache server in MySQL Database.
+
 •	Open Local Host in browser.
+
 •	Open PHP My Admin.
+
 •	Create a new database.
+
 •	Give a name (Bloodona_mood704).
+
 •	Upload an SQL file which is given in our folder.
+
 •	Your E-commerce website is ready.
 
 
